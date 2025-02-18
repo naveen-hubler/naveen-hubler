@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Naveen! 👋</h1>
 <p align="center">
   <b>DevOps Engineer | Cloud & Automation Enthusiast</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=naveen-hubler&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen-hubler&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-hubler&theme=dark" width="48%" />
 </p>
 
----
+--- 
